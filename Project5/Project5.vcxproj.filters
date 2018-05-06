@@ -18,5 +18,11 @@
     <ClCompile Include="gittest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch03-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="03-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
