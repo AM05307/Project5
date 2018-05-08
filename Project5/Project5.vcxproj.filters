@@ -30,5 +30,17 @@
     <ClCompile Include="ch 3- 12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch8-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointertest.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
