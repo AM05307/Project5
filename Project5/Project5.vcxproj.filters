@@ -51,5 +51,26 @@
     <ClCompile Include="ch8-17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stringh.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="c7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pptch10-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="chppt10-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10ppt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ppt10-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
