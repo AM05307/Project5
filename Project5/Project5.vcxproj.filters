@@ -72,5 +72,11 @@
     <ClCompile Include="ppt10-4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="324.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="const.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
