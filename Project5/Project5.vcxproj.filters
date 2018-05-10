@@ -96,9 +96,15 @@
     <ClCompile Include="ch14-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch14-test1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14-4sm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt" />
-    <Text Include="..\..\..\..\Desktop\a.txt" />
+    <Text Include="..\..\..\..\Desktop\input.txt" />
   </ItemGroup>
 </Project>
