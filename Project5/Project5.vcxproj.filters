@@ -87,7 +87,10 @@
     <ClCompile Include="ch14-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="14-3.c">
+    <ClCompile Include="ch14-03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
