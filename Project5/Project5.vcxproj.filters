@@ -102,6 +102,9 @@
     <ClCompile Include="ch14-4sm.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch14-test1js.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt" />
