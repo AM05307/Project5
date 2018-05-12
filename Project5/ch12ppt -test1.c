@@ -16,13 +16,13 @@ void showmenu() {
 
 void insert_friend(FRIEND *f_list, int *pcnt) { //구조체 배열의 주소, 배열이 몇번째인지
 	int cnt = *pcnt; //메인에서 몇번째까지 입력됐는지 값을 다시 받음
-	printf("이름을 입력하시오.\n");
+	printf("이름을 입력하세요.\n");
 	scanf_s("%s", f_list[cnt].name, sizeof(f_list[cnt].name));
 
-	printf("전화번호를 입력하시오.\n");
+	printf("전화번호를 입력하세요.\n");
 	scanf_s("%s", f_list[cnt].phoneno, sizeof(f_list[cnt].phoneno));
 
-	printf("나이를 입력하시오.\n");
+	printf("나이를 입력하세요.\n");
 	scanf_s("%d", &f_list[cnt].age, sizeof(f_list[cnt].age));
 
 	(*pcnt)++; //다음 입력을 위해 배열인덱스 증가시킴 cnt를 직접받으면 main에서 cnt가 증가하지 않음 
