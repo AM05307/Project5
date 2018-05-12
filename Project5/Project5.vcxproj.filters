@@ -108,10 +108,10 @@
     <ClCompile Include="hwpch13-5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch12-1test.c">
+    <ClCompile Include="ch12ppt -test1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch12ppt -test1.c">
+    <ClCompile Include="ch12-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
