@@ -25,8 +25,8 @@ void avgcal(struct info *tp);
 int main(void)
 {	struct info stinfo; //구조체 변수 선언
 	
-	avgin(&stinfo); // avgin 함수에 구조체 변수의 주소 전달
-	avgcal(&stinfo); //avgcal 함수에 구조체 변수의 주소 전달
+	//avgin(&stinfo); // avgin 함수에 구조체 변수의 주소 전달
+	//avgcal(&stinfo); //avgcal 함수에 구조체 변수의 주소 전달
 	return 0;
 }
 
